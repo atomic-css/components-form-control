@@ -1,0 +1,16 @@
+{
+  "name": "atomic-css-components-form-control",
+  "version": "1.0.0",
+  "homepage": "https://github.com/atomic-css/components-form-control",
+  "authors": [
+    "Lukáš Mladý"
+  ],
+  "description": "Form control component",
+  "main": "form-control.css",
+  "license": "MIT",
+  "ignore": [
+    ".*",
+    "CHANGELOG.md",
+    "component.json"
+  ]
+}

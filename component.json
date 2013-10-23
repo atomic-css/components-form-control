@@ -1,0 +1,9 @@
+{
+  "name": "components-form-control",
+  "repo": "atomic-css/components-form-control",
+  "description": "Form control component",
+  "version": "1.0.0",
+  "styles": ["form-control.css"],
+  "author": "Lukáš Mladý",
+  "license": "MIT"
+}
